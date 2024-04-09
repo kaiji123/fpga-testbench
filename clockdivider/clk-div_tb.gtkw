@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Tue Apr 09 16:45:15 2024
+[*]
+[dumpfile] "C:\Users\Kai Ji\Desktop\products\upwork-test\fpga\clk-div_tb.vcd"
+[dumpfile_mtime] "Tue Apr 09 16:44:14 2024"
+[dumpfile_size] 4908
+[savefile] "C:\Users\Kai Ji\Desktop\products\upwork-test\fpga\clk-div_tb.gtkw"
+[timestart] 5273000
+[size] 1000 600
+[pos] -1 -1
+*-20.533218 5217000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] clock_divider_tb.
+[sst_width] 211
+[signals_width] 118
+[sst_expanded] 1
+[sst_vpaned_height] 154
+@420
+clock_divider_tb.uut.COUNT_WIDTH
+clock_divider_tb.uut.MAX_COUNT
+@22
+clock_divider_tb.uut.count[4:0]
+@28
+clock_divider_tb.uut.out
+clock_divider_tb.uut.rst
+@29
+clock_divider_tb.uut.clk
+[pattern_trace] 1
+[pattern_trace] 0
